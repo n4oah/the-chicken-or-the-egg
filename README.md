@@ -2,3 +2,5 @@
 
 
 ![result](https://raw.githubusercontent.com/n4oah/the-chicken-or-the-egg/master/result.png)
+
+닭이 먼저였음
