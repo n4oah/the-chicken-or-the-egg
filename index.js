@@ -1,3 +1,3 @@
 'use strict'
 
-console.log(`['🥚', '🐔'].sort(): `, ['🥚', '🐔'].sort());
+console.log(`['🥚', '🐔'].sort(): ${['🥚', '🐔'].sort()}`);
